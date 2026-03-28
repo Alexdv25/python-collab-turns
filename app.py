@@ -9,3 +9,4 @@ for line in read_entries():
 add_entry("A-Master: second change")
 add_entry("C-Daniel: second change")
 add_entry("B-David: second change")
+print("Executed by A")
