@@ -3,3 +3,4 @@ def delete_last_entry():
         lines = f.readlines()
     with open("data.txt", "w") as f:
         f.writelines(lines[:-1])
+print("Hi Daniel")
