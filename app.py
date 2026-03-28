@@ -7,3 +7,4 @@ add_entry("C: first change")
 for line in read_entries():
     print(line)
 add_entry("A: second change")
+add_entry("C: second change")
